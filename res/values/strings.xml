@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Customer Order Tracker</string>
+    <string name="title_activity_search_list_order">SearchListOrder</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string-array name="sizes_array">
+        <item>X-Small</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>X-Large</item>
+        <item>XX-Large</item>
+        <item>3X-Large</item>
+        <item>4X-Large</item>
+        <item>5X-Large</item>
+    </string-array>
+    <string-array name="delivery_type_array">
+        <item>Shipping</item>
+        <item>Delivery</item>
+        <item>Pickup</item>
+    </string-array>
+    <string-array name="state_array">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AR</item>
+        <item>AZ</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DC</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>IA</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>MA</item>
+        <item>MD</item>
+        <item>ME</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MO</item>
+        <item>MS</item>
+        <item>MT</item>
+        <item>NC</item>
+        <item>NE</item>
+        <item>ND</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NV</item>
+        <item>NY</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VA</item>
+        <item>VT</item>
+        <item>WA</item>
+        <item>WI</item>
+        <item>WV</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="placement_array">
+        <item>Right Front</item>
+        <item>Center Front</item>
+        <item>Left Front</item>
+        <item>Right Sleeve</item>
+        <item>Left Sleeve</item>
+        <item>Back</item>
+        <item>Hat</item>
+    </string-array>
+    <string-array name="vendor_array">
+        <item>Sanmar</item>
+        <item>Broder Brothers</item>
+        <item>Otto Cap</item>
+    </string-array>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string-array name="departments_array">
+        <item>Management</item>
+        <item>Sales</item>
+        <item>Art</item>
+        <item>Printing</item>
+        <item>Embroidery</item>
+        <item>Shipping</item>
+    </string-array>
+</resources>

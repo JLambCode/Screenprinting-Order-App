@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.customerordertracker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_app"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_app_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Activities.Admin" />
+        <activity android:name=".Activities.ArtEdit" />
+        <activity android:name=".Activities.ArtInfo" />
+        <activity android:name=".Activities.ArtList" />
+        <activity android:name=".Activities.ClientEdit" />
+        <activity android:name=".Activities.ClientInfo" />
+        <activity android:name=".Activities.ClientList" />
+        <activity android:name=".Activities.ClientOrdersList" />
+        <activity android:name=".Activities.DepartmentEdit" />
+        <activity android:name=".Activities.DepartmentList" />
+        <activity android:name=".Activities.EmployeeEdit" />
+        <activity android:name=".Activities.EmployeeInfo" />
+        <activity android:name=".Activities.FirstMenu" />
+        <activity android:name=".Activities.ItemEdit" />
+        <activity android:name=".Activities.ItemInfo" />
+        <activity android:name=".Activities.NewArt" />
+        <activity android:name=".Activities.NewClient" />
+        <activity android:name=".Activities.NewDepartment" />
+        <activity android:name=".Activities.NewEmployee" />
+        <activity android:name=".Activities.NewItem" />
+        <activity android:name=".Activities.NewOrder" />
+        <activity android:name=".Activities.NewPoC" />
+        <activity android:name=".Activities.OrderEdit" />
+        <activity android:name=".Activities.OrderInfo" />
+        <activity android:name=".Activities.OrderList" />
+        <activity android:name=".Activities.PoCEdit" />
+        <activity android:name=".Activities.PoCInfo" />
+        <activity android:name=".Activities.Reports" />
+        <activity android:name=".Activities.SearchListClient" />
+        <activity android:name=".Activities.SearchListOrder"/>
+
+    </application>
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+</manifest>
