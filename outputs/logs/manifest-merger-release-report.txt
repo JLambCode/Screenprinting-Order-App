@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8123a5ca8e19d27141851e9f5fb7c703\wear-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\94e6571d583ae21c2c11a19313eff527\navigation-ui-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8751d594f7901ec13d3c16253d123aac\constraintlayout-2.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e50d582fc01e78d7c9baaf8b9764b659\navigation-fragment-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\062873a4c39b330a4639e2be10ffe43e\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f509f6d2f9c1ff170092c34a0922c9f9\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\ef2f95b43cc4863b13df752baa98dd65\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\418236073703f3b5b6acef41934bbd97\navigation-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\38fa8e3fc15eea0e4bd1cc9b7f46d185\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\a9b5a5fc54865b7c521ab531bcfd4f5e\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\7583a1193aea876241da18273384578b\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\d0d5e592b4e5744d0c88a7dc24d00505\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8b75a198c63daf512e8348b47c22b6d8\jetified-butterknife-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\be0b3c7258e6da73a16db7ad25cbd1f2\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\ca8dccb6c474eba683dd5abfae1fb188\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\d2d9abf98ebf05f41956caebd20af979\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\7ced6c91ac482bc6e6ce9aa80fc65495\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\09883586f944d9c5e2e049eafc77e17d\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\3d4027c244b2f1092dbbdb3fa0c4c39b\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\280315977707aa15c6b8cfd27462d470\navigation-common-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f308a80268527ee3a98b201ce58e0ed5\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b00e05c5496a872f0e85a2965fea390a\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\1fe19727ef3a687316437aaec9384d83\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\dd9afa252f6f41ce3d69c8be02d16bd6\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\01dae22b1dc9396ab475867779c8cff2\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\280300a566a7220912742739919ba175\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:5:5-51:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8751d594f7901ec13d3c16253d123aac\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8751d594f7901ec13d3c16253d123aac\constraintlayout-2.0.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\062873a4c39b330a4639e2be10ffe43e\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\062873a4c39b330a4639e2be10ffe43e\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:9:9-49
+	android:icon
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:7:9-38
+	android:allowBackup
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.customerordertracker.Activities.MainActivity
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:12:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.customerordertracker.Activities.Admin
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.example.customerordertracker.Activities.ArtEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.customerordertracker.Activities.ArtInfo
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:22:19-53
+activity#com.example.customerordertracker.Activities.ArtList
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:23:19-53
+activity#com.example.customerordertracker.Activities.ClientEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:24:19-56
+activity#com.example.customerordertracker.Activities.ClientInfo
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:25:19-56
+activity#com.example.customerordertracker.Activities.ClientList
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:26:19-56
+activity#com.example.customerordertracker.Activities.ClientOrdersList
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:27:9-65
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:27:19-62
+activity#com.example.customerordertracker.Activities.DepartmentEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:28:9-63
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:28:19-60
+activity#com.example.customerordertracker.Activities.DepartmentList
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:29:19-60
+activity#com.example.customerordertracker.Activities.EmployeeEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:30:19-58
+activity#com.example.customerordertracker.Activities.EmployeeInfo
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:31:9-61
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:31:19-58
+activity#com.example.customerordertracker.Activities.FirstMenu
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:32:9-58
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:32:19-55
+activity#com.example.customerordertracker.Activities.ItemEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:33:9-57
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:33:19-54
+activity#com.example.customerordertracker.Activities.ItemInfo
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:34:9-57
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:34:19-54
+activity#com.example.customerordertracker.Activities.NewArt
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:35:9-55
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:35:19-52
+activity#com.example.customerordertracker.Activities.NewClient
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:36:9-58
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:36:19-55
+activity#com.example.customerordertracker.Activities.NewDepartment
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:37:9-62
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:37:19-59
+activity#com.example.customerordertracker.Activities.NewEmployee
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:38:19-57
+activity#com.example.customerordertracker.Activities.NewItem
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:39:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:39:19-53
+activity#com.example.customerordertracker.Activities.NewOrder
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:40:9-57
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:40:19-54
+activity#com.example.customerordertracker.Activities.NewPoC
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:41:19-52
+activity#com.example.customerordertracker.Activities.OrderEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:42:9-58
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:42:19-55
+activity#com.example.customerordertracker.Activities.OrderInfo
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:43:9-58
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:43:19-55
+activity#com.example.customerordertracker.Activities.OrderList
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:44:9-58
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:44:19-55
+activity#com.example.customerordertracker.Activities.PoCEdit
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:45:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:45:19-53
+activity#com.example.customerordertracker.Activities.PoCInfo
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:46:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:46:19-53
+activity#com.example.customerordertracker.Activities.Reports
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:47:9-56
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:47:19-53
+activity#com.example.customerordertracker.Activities.SearchListClient
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:48:9-65
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:48:19-62
+activity#com.example.customerordertracker.Activities.SearchListOrder
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:49:9-63
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:49:19-61
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:53:5-79
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:53:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:54:5-80
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:54:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:55:5-68
+	android:name
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml:55:22-65
+uses-sdk
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8123a5ca8e19d27141851e9f5fb7c703\wear-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8123a5ca8e19d27141851e9f5fb7c703\wear-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\94e6571d583ae21c2c11a19313eff527\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\94e6571d583ae21c2c11a19313eff527\navigation-ui-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b5cf40796c25367401fbf6ec124658c0\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8751d594f7901ec13d3c16253d123aac\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8751d594f7901ec13d3c16253d123aac\constraintlayout-2.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e50d582fc01e78d7c9baaf8b9764b659\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e50d582fc01e78d7c9baaf8b9764b659\navigation-fragment-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\062873a4c39b330a4639e2be10ffe43e\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\062873a4c39b330a4639e2be10ffe43e\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f509f6d2f9c1ff170092c34a0922c9f9\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f509f6d2f9c1ff170092c34a0922c9f9\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\ef2f95b43cc4863b13df752baa98dd65\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\ef2f95b43cc4863b13df752baa98dd65\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\418236073703f3b5b6acef41934bbd97\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\418236073703f3b5b6acef41934bbd97\navigation-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\38fa8e3fc15eea0e4bd1cc9b7f46d185\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\38fa8e3fc15eea0e4bd1cc9b7f46d185\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\a9b5a5fc54865b7c521ab531bcfd4f5e\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\a9b5a5fc54865b7c521ab531bcfd4f5e\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\7583a1193aea876241da18273384578b\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\7583a1193aea876241da18273384578b\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\d0d5e592b4e5744d0c88a7dc24d00505\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\d0d5e592b4e5744d0c88a7dc24d00505\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8b75a198c63daf512e8348b47c22b6d8\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\8b75a198c63daf512e8348b47c22b6d8\jetified-butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\be0b3c7258e6da73a16db7ad25cbd1f2\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\be0b3c7258e6da73a16db7ad25cbd1f2\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\ca8dccb6c474eba683dd5abfae1fb188\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\ca8dccb6c474eba683dd5abfae1fb188\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\d2d9abf98ebf05f41956caebd20af979\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\d2d9abf98ebf05f41956caebd20af979\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\7ced6c91ac482bc6e6ce9aa80fc65495\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\7ced6c91ac482bc6e6ce9aa80fc65495\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\09883586f944d9c5e2e049eafc77e17d\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\09883586f944d9c5e2e049eafc77e17d\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\3d4027c244b2f1092dbbdb3fa0c4c39b\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\3d4027c244b2f1092dbbdb3fa0c4c39b\jetified-butterknife-runtime-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\280315977707aa15c6b8cfd27462d470\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\280315977707aa15c6b8cfd27462d470\navigation-common-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f308a80268527ee3a98b201ce58e0ed5\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f308a80268527ee3a98b201ce58e0ed5\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b00e05c5496a872f0e85a2965fea390a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b00e05c5496a872f0e85a2965fea390a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\1fe19727ef3a687316437aaec9384d83\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\1fe19727ef3a687316437aaec9384d83\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\dd9afa252f6f41ce3d69c8be02d16bd6\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\dd9afa252f6f41ce3d69c8be02d16bd6\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\01dae22b1dc9396ab475867779c8cff2\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\01dae22b1dc9396ab475867779c8cff2\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\280300a566a7220912742739919ba175\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\280300a566a7220912742739919ba175\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\faa46d3172606436a70f4954c4fe88af\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kesse\AndroidStudioProjects\CustomerOrderTracker\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.1] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\55f3828ea1c4dabdf2d906e45e240941\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Kesse\.gradle\caches\transforms-2\files-2.1\b9c43d96e85ae92cb4d6a82112e73a94\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

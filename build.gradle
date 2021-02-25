@@ -1,34 +1,84 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-buildscript {
-    repositories {
-        google()
-        jcenter()
-    }
-    dependencies {
-        classpath "com.android.tools.build:gradle:4.0.2"
+apply plugin: 'com.android.application'
 
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
+android {
+    signingConfigs {
+        CustomerOrderTracker {
+            storeFile file('\\Users\\Kesse\\keystores')
+            storePassword 'Jl424285nobnob'
+            keyPassword 'Jl424285nobnob'
+            keyAlias 'CustomerOrderTracker'
+        }
     }
-}
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+    android.defaultConfig.vectorDrawables.useSupportLibrary = true
+    compileOptions{
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
+    }
+    lintOptions {
+        checkReleaseBuilds false
+    }
 
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        tasks.withType(JavaCompile) {
-            options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
+    defaultConfig {
+        applicationId "com.example.customerordertracker"
+        minSdkVersion 26
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.CustomerOrderTracker
         }
     }
 }
 
-task clean(type: Delete) {
-    delete rootProject.buildDir
-}
+dependencies {
+    implementation 'androidx.wear:wear:1.0.0'
+    compileOnly 'com.google.android.wearable:wearable:2.7.0'
+    def lifecycle_version = "2.2.0"
+    def arch_version = "2.1.0"
+    def room_version = "2.2.5"
 
-ext {
-    roomVersion = '2.2.1'
-    archLifecycleVersion = '2.2.0'
-    coreTestingVersion = '2.1.0'
-    materialVersion = '1.1.0'
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.2'
+    implementation 'androidx.navigation:navigation-fragment:2.3.1'
+    implementation 'androidx.navigation:navigation-ui:2.3.1'
+    testImplementation 'junit:junit:4.12'
+    testImplementation "androidx.arch.core:core-testing:$arch_version"
+    implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-livedata:$lifecycle_version"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-savedstate:$lifecycle_version"
+    implementation 'com.jakewharton:butterknife:10.2.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+    implementation 'android.arch.persistence.room:runtime:1.1.1'
+    annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    // Room components
+    //implementation "androidx.room:room-runtime:$room_version"
+    //annotationProcessor "androidx.room:room-compiler:$room_version"
+    implementation "androidx.room:room-runtime:$rootProject.roomVersion"
+    annotationProcessor "androidx.room:room-compiler:$rootProject.roomVersion"
+    //noinspection GradleDependency
+    androidTestImplementation "androidx.room:room-testing:$rootProject.roomVersion"
+
+    // Lifecycle components
+    implementation "androidx.lifecycle:lifecycle-extensions:$rootProject.archLifecycleVersion"
+    annotationProcessor "androidx.lifecycle:lifecycle-compiler:$rootProject.archLifecycleVersion"
+
+    // UI
+    implementation "com.google.android.material:material:$rootProject.materialVersion"
+
+    // Testing
+    androidTestImplementation "androidx.arch.core:core-testing:$rootProject.coreTestingVersion"
+
 }
